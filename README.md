@@ -31,11 +31,11 @@
 
 ## Использование и запуск проекта
 Создание в корне проект файла .env со следующим содержанием
-```APP_TITLE=Благотворительного фонда поддержки котиков QRKot
-DATABASE_URL=sqlite+aiosqlite:///./fastapi.db
-SECRET='Ваш секретный код'
-FIRST_SUPERUSER_EMAIL='Ваш e-mail суперпользователя'
-FIRST_SUPERUSER_PASSWORD='Ваш пароль суперпользователя' ```
+```APP_TITLE=Благотворительного фонда поддержки котиков QRKot```
+```DATABASE_URL=sqlite+aiosqlite:///./fastapi.db```
+```SECRET='Ваш секретный код'```
+```FIRST_SUPERUSER_EMAIL='Ваш e-mail суперпользователя'```
+```FIRST_SUPERUSER_PASSWORD='Ваш пароль суперпользователя' ```
 
 Создание файла миграции
 
